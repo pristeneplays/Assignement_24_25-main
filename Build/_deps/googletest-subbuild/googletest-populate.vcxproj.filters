@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\ff35ae961891402a8cc31e9af77cf7f7\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\ff35ae961891402a8cc31e9af77cf7f7\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\ff35ae961891402a8cc31e9af77cf7f7\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\ff35ae961891402a8cc31e9af77cf7f7\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\ff35ae961891402a8cc31e9af77cf7f7\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\ff35ae961891402a8cc31e9af77cf7f7\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\ff35ae961891402a8cc31e9af77cf7f7\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\ff35ae961891402a8cc31e9af77cf7f7\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\f51d85bbb4a2a11166195dc0d34b5b34\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\edcc292b8cca8df63a828c2a0bb2f5a7\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Tom Beard\Documents\GitHub\Assignement_24_25-main\Build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7346CAB2-5885-33D4-9CFF-35D572F10A08}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

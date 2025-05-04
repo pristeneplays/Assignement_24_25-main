@@ -1,0 +1,3 @@
+C:/Users/Tom Beard/Documents/GitHub/Assignement_24_25-main/Build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/Tom Beard/Documents/GitHub/Assignement_24_25-main/Build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tom Beard/Documents/GitHub/Assignement_24_25-main/Build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
